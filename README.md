@@ -1,4 +1,56 @@
 Ticket Tool application ReactJS & NodeJS & sqlite based. sorry for this shitcode. для РУ описание ниже !!
+
+## SCREENSHOTS
+![{8ED5BFF7-20D8-4DA8-B651-A4C9B10815A3}](https://github.com/user-attachments/assets/a29fd751-92ff-4725-855c-86e5ece99901)
+![{AD392A2C-73EE-4623-9A19-0E4E0D3BDC9C}](https://github.com/user-attachments/assets/453eb638-feb0-432e-8f9a-5c827c1e6e16)
+![{9915FFBA-BA90-4930-ACE3-FC33FFD1B9D2}](https://github.com/user-attachments/assets/a2804cf3-6b3b-4092-a3f8-843c803198d6)
+![{40A46B5D-9980-4847-8C7D-BCC7E450B524}](https://github.com/user-attachments/assets/5f03b6ed-75d1-4e15-be41-e5dc0b3dc4d3)
+![{24FE4651-0E85-449A-ACF7-AC6B61329A28}](https://github.com/user-attachments/assets/79e71bf2-33b4-4f8a-b07a-3f8f2a312744)
+![{BAF55849-FEE7-4D29-A377-B4326A25D753}](https://github.com/user-attachments/assets/7a7c5315-93d1-4fd9-ba14-7725a9eecc3b)
+![{6F54CCA1-568E-466E-AFCA-86550DDFFF85}](https://github.com/user-attachments/assets/57a3cd94-c2c8-49e6-817d-418baef89d13)
+![{7C2C076E-377F-4122-A8D6-BF78B4397702}](https://github.com/user-attachments/assets/ae6f6325-8af4-4ee8-87a9-336c66c977a8)
+![{AA6825CE-6C1C-4914-A40D-2B298C349870}](https://github.com/user-attachments/assets/da48188e-bc03-4d72-8d56-f52cf119977c)
+
+
+
+
+
+
+
+## HOW TO INSTALL
+
+**1. INSTALL MODULES FOR SERVER**
+- cd client
+- npm install
+
+
+**2. INSTALL MODULES FOR CLIENT**
+- cd server
+- npm install
+
+
+**3. RUN CLIENT & SERVER**
+- cd server
+- npm run dev
+
+
+
+- cd client
+- npm start
+
+
+**4. CREATE ACCOUNT WITH OWNER ROLE**
+- cd server
+- node create-owner.js
+
+
+**5. RELOAD THE SERVER AND LOG IN**
+- super.admin@servicetask.ru:owner123 - by default when u use create-owner.js
+
+
+
+
+
 ENG:
 
 hello everyone  
@@ -261,6 +313,6 @@ Owner может перманентно дельнуть тикет. Также 
 - Адекватизировать все листы. при большом колве текста вы ничего не сможете
 - Адекватизировать всю фронтенд часть. это потреблядство написанное на коленке аишкой. ну или хотябы чутьчуть попытаться сделать его интуитивно понятным хз
 - адекватизировать структуру приложения. дубли есть и так далее
-также в проекте есть риадми созданный аишкой почитайте может еще чтото новое узнаете (сначала англ потом ру идёт).
+также в проекте есть риадми созданный аишкой почитайте может еще чтото новое узнаете (сначала англ потом ру идёт). я больной на голову
 
 
